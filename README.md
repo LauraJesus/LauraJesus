@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Laura!
+- 👀 I’m interested in web development, data science, problem-solving, and more! I'm always learning new things.
+- 🌱 I’m currently learning Python, C# and C++.
+- 💞️ I’m looking to collaborate on open-source projects, especially in front-end development and data analysis.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am fluent in English, but I actually live in Brazil! I was a teacher for 1 year during my graduation in Computer Science.
