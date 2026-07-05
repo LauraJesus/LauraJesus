@@ -1,6 +1,31 @@
-- 👋 Hi, I’m Laura!
-- 👀 I’m interested in web development, data science, problem-solving, and more! I'm always learning new things.
-- 🌱 I’m currently learning Python and C.
-- 💞️ I’m looking to collaborate on open-source projects, especially in front-end development and data analysis.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am fluent in English, but I actually live in Brazil! I was a teacher for 1 year during my graduation in Computer Science.
+<h1 align="center">Hi, I'm Laura 👋</h1>
+
+<p align="center">
+  Computer Science student at UNIFEI · Itajubá, MG 🇧🇷
+</p>
+
+### Background
+
+I also teach English, and I have undergraduate scientific research experience in **computational chemistry**, porting molecular dynamics tools from C++ to Python using MDAnalysis — which gave me a solid foundation in scientific automation alongside traditional software development.
+
+### Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### Featured Projects
+
+- **[ILLIAD](https://github.com/LauraJesus/ILLIAD)** — Molecular dynamics tool (computational chemistry), ported from C++ to Python
+- **[Gaussian-Input-Generator](https://github.com/LauraJesus/Gaussian-Input-Generator)** — Interactively generates header sections for Gaussian input files
+- **[Gaussian-Log-Calculator](https://github.com/LauraJesus/Gaussian-Log-Calculator)** — Extracts ESP and NBO charges from Gaussian output files
+
+### 📫 Find me
+
+<p>
+  <a href="https://github.com/LauraJesus">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
