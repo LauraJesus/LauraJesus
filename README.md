@@ -6,7 +6,7 @@
 
 ### Background
 
-I also teach English, and I have undergraduate scientific research experience in **computational chemistry**, porting molecular dynamics tools from C++ to Python using MDAnalysis — which gave me a solid foundation in scientific automation alongside traditional software development.
+Beyond my studies in CS and teaching English, I have undergraduate research experience in computational chemistry, where I ported molecular dynamics tools from C++ to Python using MDAnalysis. This provided me with a strong foundation in both scientific automation and traditional software development.
 
 ### Technologies & Tools
 
@@ -18,7 +18,7 @@ I also teach English, and I have undergraduate scientific research experience in
 
 ### Featured Projects
 
-- **[ILLIAD](https://github.com/LauraJesus/ILLIAD)** — Molecular dynamics tool (computational chemistry), ported from C++ to Python
+- **[ILLIAD](https://github.com/LauraJesus/ILLIAD)** — Molecular dynamics tool ported from C++ to Python
 - **[Gaussian-Input-Generator](https://github.com/LauraJesus/Gaussian-Input-Generator)** — Interactively generates header sections for Gaussian input files
 - **[Gaussian-Log-Calculator](https://github.com/LauraJesus/Gaussian-Log-Calculator)** — Extracts ESP and NBO charges from Gaussian output files
 
